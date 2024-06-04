@@ -1,0 +1,21 @@
+HTTrack3.49-2 launched on Mon, 27 May 2024 22:01:53 at https://zcube.in/xadvices/?storefront=envato-elements# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://zcube.in/xadvices/?storefront=envato-elements# -O "/Users/abdulrahman/Downloads/advices" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:03:53	Error: 	"Not Found" (404) at link https://zcube.in/xadvices/service-detail.html (from https://zcube.in/xadvices/services-detail.html)
+22:05:23	Warning: 	HTML file (22158 bytes) retransferred due to lack of cache: https://zcube.in/xadvices/team-details.html
+22:05:24	Warning: 	HTML file (56866 bytes) retransferred due to lack of cache: https://zcube.in/xadvices/service-detail.html
+22:05:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://zcube.in/xadvices/service-detail.html (from https://zcube.in/xadvices/services-detail.html)
+22:05:25	Warning: 	HTML file (56866 bytes) retransferred due to lack of cache: https://zcube.in/xadvices/service-detail.html
+22:05:25	Error: 	"Not Found" (404) at link https://zcube.in/xadvices/img/bg/quote_bg.png (from https://zcube.in/xadvices/blog.html)
+22:05:27	Error: 	"Not Found" (404) at link https://zcube.in/xadvices/img/bg/active-dote.png (from https://zcube.in/xadvices/css/style.css)
+22:05:27	Error: 	"Not Found" (404) at link https://zcube.in/xadvices/img/bg/dote.png (from https://zcube.in/xadvices/css/style.css)
+22:05:27	Error: 	"Not Found" (404) at link https://zcube.in/xadvices/images/quote_bg.png (from https://zcube.in/xadvices/css/style.css)
+22:05:28	Error: 	"Not Found" (404) at link https://zcube.in/xadvices/service-detail.html (from https://zcube.in/xadvices/services-detail.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 35 seconds : 163 links scanned, 157 files written (41071909 bytes overall) [34175197 bytes received at 158954 bytes/sec], 10785853 bytes transferred using HTTP compression in 62 files, ratio 31%, 7.1 requests per connection
+(6 errors, 4 warnings, 0 messages)
